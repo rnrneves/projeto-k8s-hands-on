@@ -1,4 +1,5 @@
 #!/bin/bash
+#Developed By Raimundo Neves-rnrneves
 
 echo "Criando as imagens..."
 
